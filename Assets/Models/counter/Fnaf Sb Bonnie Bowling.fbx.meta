@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 27d9eb11f1dc81d4299d3cd42a3e4413
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MAT_BowlingShoeCubby
+    second: {fileID: 2100000, guid: cb48ff5659f4a3d449ffb7fdeddece03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MAT_Freddy_TrashCan
+    second: {fileID: 2100000, guid: 973de5b4317f84d4faca7ba6ef64555a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_ChairOfficeA
+    second: {fileID: 2100000, guid: 7e2c0556750c569438807c85130fb6d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_Cooler
+    second: {fileID: 2100000, guid: b84f983ea96608c46ba6322d1a7c1061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_MarkerBoard
+    second: {fileID: 2100000, guid: 2d8cd72f8042d3646ba97ec85247c4ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_NoteBook
+    second: {fileID: 2100000, guid: 222bbf1f8ad5ba9419bf2f9ad4a4469a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_PC
+    second: {fileID: 2100000, guid: 81065a6ed220c874aad39850afaaf414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_PC1
+    second: {fileID: 2100000, guid: 4f07043bb8e8d204f8f38ad15eca2cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_PaperTray
+    second: {fileID: 2100000, guid: 71f6114b773b64e47bd5dcc8bfadd88b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_Props
+    second: {fileID: 2100000, guid: ab59fdbe2402105419f48e1fd3fe996e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_ReceptionTable
+    second: {fileID: 2100000, guid: b35c8bbb1dc88874eaf7d5127fa59823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_Receptoin
+    second: {fileID: 2100000, guid: acdc9ea18b674714396748ab96f3179a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_MI_RingBinder
+    second: {fileID: 2100000, guid: cfc19340f17ad444fa831fa19614d673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BBReceptionDesk_zITrashCan
+    second: {fileID: 2100000, guid: 37a75531f0d64a24fbed6cff10dfe636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BallReturners_ReturnMachine
+    second: {fileID: 2100000, guid: 3cd737be07fbac9469cee95c50034315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeamB_M_Beams
+    second: {fileID: 2100000, guid: a438d98cf23665c49b39f53b52c208a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeamC_M_Beams
+    second: {fileID: 2100000, guid: 1bee436fa7aaddc4db06ac2e6e5c5a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeamColumn_MI_BeamsA_02
+    second: {fileID: 2100000, guid: fbc0bdc8e53a9a048b51638e0a47c0e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BonnieBowlSignB_MAT_Sign_BonnieBowl
+    second: {fileID: 2100000, guid: 458fea55e345a2f46af42caceb33bc6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingBall_MAT_BowlingBall_00
+    second: {fileID: 2100000, guid: 7bb4b6c63770a5746b8d860c1bd4799c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingBar_MAT_BowlingBar
+    second: {fileID: 2100000, guid: feb3986c944b591418d67f32a4337c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingChairs_M_Bowling_Cdhairs
+    second: {fileID: 2100000, guid: cc78aa819a299064d8c9eb5144ee87e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingChairs_M_Bowling_Cdhairs_Blue
+    second: {fileID: 2100000, guid: 84e54c84a5ecacd439b849b09b8a3cff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingChairs_M_Bowling_Cdhairs_Green
+    second: {fileID: 2100000, guid: 29d4bf5ece7e2ad4fac1a948f4b91343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingChairs_M_Bowling_Cdhairs_Red
+    second: {fileID: 2100000, guid: d39b18632604e0440bb394a3fe590dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingLanesFinal_M_Bowling_Linne_Final
+    second: {fileID: 2100000, guid: b0bbe57f3341f864289a99347bf490fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingLanes_M_Bowling_line_1
+    second: {fileID: 2100000, guid: 3283ff3a0bd7f874baafcb1085f628f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingLanes_M_Bowlinsg_line_2
+    second: {fileID: 2100000, guid: 544e86046ac73f340bc4131a8e3310be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BowlingTVs_M_Bowling_TV_Turned_On
+    second: {fileID: 2100000, guid: 7ace7460525728d43904cde0fb61b295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DuoTable_MAT_Barstool
+    second: {fileID: 2100000, guid: 366f26759e6013e42b3a6f31ef0a336a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DuoTable_MI_table_02
+    second: {fileID: 2100000, guid: ac3b27bbbd4916c4ba132c0302fd20bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_FLOORS_BONNIEBOWLFLOOR
+    second: {fileID: 2100000, guid: 9859e3a6208e14a499f75948a31510bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_FLOORS_BOWLINGFLOOR
+    second: {fileID: 2100000, guid: 3521ee920f30ac4429bdbb49c4f16356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_FLOORS_COMMONSTAIRS01BB
+    second: {fileID: 2100000, guid: cfe061b2ee990304db9c05e48a9fe118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_NEONS_NEONYELLOW
+    second: {fileID: 2100000, guid: c0d7257ec3651944a9eb1916c7677fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_DOUGHYANIM
+    second: {fileID: 2100000, guid: 9340c2c60dd240248b9f8a45e9fd96bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_FAZERFRESHANIM
+    second: {fileID: 2100000, guid: b4d3ce0b7d9e2ba4a84955e976b3a04f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_FREDDYLOGOWHITE
+    second: {fileID: 2100000, guid: 0d4ae07a62425b14d85aefcff5810828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_LETSEATANIM
+    second: {fileID: 2100000, guid: ee146e610ae4d324ebe7c866a9941504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_PIZZAANIM
+    second: {fileID: 2100000, guid: 90b586c4556b4bc49a882b5105be06b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_PIZZAPULLANIM
+    second: {fileID: 2100000, guid: 549f4eebb5e0c614b9910674d68bb053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_STARBASICBLUE
+    second: {fileID: 2100000, guid: 3cce787c1c6d3c24c8753625d46d1820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_STARBASICRED
+    second: {fileID: 2100000, guid: bf1fac14127b34e48b96eab550134666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_STARCLUSTERGREEN
+    second: {fileID: 2100000, guid: 8e282d1441664874aa356b26494634ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_POSTERS_STARCLUSTERPINK
+    second: {fileID: 2100000, guid: 49eaa1b3bb00c5f479ebc9f8f257f2ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_WALLS_COMMONTILE01
+    second: {fileID: 2100000, guid: a1356c0aa4027914aabc6dd0090c7eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_WALLS_COMMONWALL03
+    second: {fileID: 2100000, guid: 1c3805b9f56312342a45f97d26231ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_WALLS_COMMONWALL07
+    second: {fileID: 2100000, guid: c0db967811c0aa14a8be2dd5f3693d95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNAFSB_WALLS_COMMONWALLBLACK
+    second: {fileID: 2100000, guid: 6197084710b01a9408d2254bcca80c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassRailL_MAT_ScratchedGlassrail
+    second: {fileID: 2100000, guid: 9f6116671e342d640a89a6c83af57471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassRailL_MI_Metal_fence_01
+    second: {fileID: 2100000, guid: cba25c7c5b582274bb53c17893723343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassRailR_MAT_ScratchedGlassrail
+    second: {fileID: 2100000, guid: fe0ed29af5268284fb156b03969deb87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassRailR_MI_Metal_fence_01
+    second: {fileID: 2100000, guid: bdfb47f8a103b5b4e8e75cc555db1cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaneChairnComputer_M_Bowling_Cdhairs
+    second: {fileID: 2100000, guid: 6b06beeb1cf17c14996f49a9da48f4fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaneChairnComputer_M_Bowling_Cdhairs_Blue
+    second: {fileID: 2100000, guid: 213404a1b44602341a6f00eaf1048ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaneChairnComputer_M_Bowling_Cdhairs_Green
+    second: {fileID: 2100000, guid: 55745c289add7ac4090a302e9d6faf3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaneChairnComputer_M_Bowling_Cdhairs_Red
+    second: {fileID: 2100000, guid: 9daaa2c0157c470479679e9cc16e4026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaneChairnComputer_M_Bowling_Computer
+    second: {fileID: 2100000, guid: d0b8f397b0562614a96239d2b0da4ffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaneNumbers_neonblue
+    second: {fileID: 2100000, guid: 211bff45d594c8746b262b6cc2ca9c1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lanenumberboards_MI_BasketballHoop
+    second: {fileID: 2100000, guid: 4148525679fea9047addfa961694bc1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LazerWallBB_MI_LazerWalls00
+    second: {fileID: 2100000, guid: 8c32185037d30b8489b9668d2f05a2a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LazerWallBBtall_MI_LazerWalls00
+    second: {fileID: 2100000, guid: dc2953cf993ccbb4bb561ddd1a6f3593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LedgeTrimL_MI_Diner_ExteriorWallA_TintA
+    second: {fileID: 2100000, guid: 1e6cb6ba0b52dee49b34a65927724615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LedgeTrimR_MI_Diner_ExteriorWallA_TintA
+    second: {fileID: 2100000, guid: 578343539aee6794b97eb34bf32be90a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LobbyBannerBB_MI_Lobby_Banner
+    second: {fileID: 2100000, guid: 918c665fc3f346949b401fb70636a27a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LobbyBannerBB_MI_Lobby_Banner2_Inst
+    second: {fileID: 2100000, guid: b8564587f69b1994780ec5050a125ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MiddleTrim_MI_Diner_ExteriorWallA_TintA
+    second: {fileID: 2100000, guid: dcf33acc83cbdf548816cbef7778282c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PartyDoorBeamBase_MAT_PartyDoor
+    second: {fileID: 2100000, guid: 20fbd0843ceb56843ac6c90cf0c4c25f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PartyDoorGate_MAT_PartyDoor
+    second: {fileID: 2100000, guid: d914cfdc9567cee45900b9c1b80121cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PillarArch_NeonCyan
+    second: {fileID: 2100000, guid: 75e996776b91d6940be22639d3dd296b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PillarArch_neonorange
+    second: {fileID: 2100000, guid: 10c7fa61aa112f743b65289c1ff81697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightFloorTrim_MI_Diner_ExteriorWallA_TintA
+    second: {fileID: 2100000, guid: dc7fe1c47b980a942b673e270b61d545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SideWallBeams_MI_BeamsA_02
+    second: {fileID: 2100000, guid: 65bcde8032a65fd458b15721d145d7a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SideWallNeonStrips_neonblue
+    second: {fileID: 2100000, guid: afc7496bd1308a04b8ac574d10dbcb72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkittleMachine_M_Bowling_Skittle_Machine
+    second: {fileID: 2100000, guid: 35b3137b041f65543a8cb3bdb0e64807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skittles_M_Bowling_tSkittle
+    second: {fileID: 2100000, guid: 6444e129b3c72544985b26e541b41062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairHandrails_MI_Steel
+    second: {fileID: 2100000, guid: d2d8587506f152f42af854e733051933, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

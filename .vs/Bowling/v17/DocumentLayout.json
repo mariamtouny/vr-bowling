@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\Bowling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F70F501-691D-A177-3015-69ED095938F9}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\bowling\\assets\\oldstuff\\bowling\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F70F501-691D-A177-3015-69ED095938F9}|Assembly-CSharp.csproj|solutionrelative:assets\\oldstuff\\bowling\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F70F501-691D-A177-3015-69ED095938F9}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\bowling\\assets\\oldstuff\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F70F501-691D-A177-3015-69ED095938F9}|Assembly-CSharp.csproj|solutionrelative:assets\\oldstuff\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F70F501-691D-A177-3015-69ED095938F9}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\bowling\\assets\\oldstuff\\bowling\\scripts\\menutoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F70F501-691D-A177-3015-69ED095938F9}|Assembly-CSharp.csproj|solutionrelative:assets\\oldstuff\\bowling\\scripts\\menutoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Bowling\\Assets\\oldstuff\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\oldstuff\\GameManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Bowling\\Assets\\oldstuff\\GameManager.cs",
+              "RelativeToolTip": "Assets\\oldstuff\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:08:19.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Bowling\\Assets\\oldstuff\\bowling\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\oldstuff\\bowling\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Bowling\\Assets\\oldstuff\\bowling\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\oldstuff\\bowling\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:07:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuToggle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Bowling\\Assets\\oldstuff\\bowling\\Scripts\\MenuToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\oldstuff\\bowling\\Scripts\\MenuToggle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Bowling\\Assets\\oldstuff\\bowling\\Scripts\\MenuToggle.cs",
+              "RelativeToolTip": "Assets\\oldstuff\\bowling\\Scripts\\MenuToggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:06:58.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
